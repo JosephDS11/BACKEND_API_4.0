@@ -1,0 +1,10 @@
+POST http://localhost:3000/api/review
+Content-Type: application/json
+
+{
+    "brand": "Chevrolet",
+    "model": "Celta",
+    "year": 2016,
+    "description": "Vermelho",
+    "opinion": "Dá pra usar"
+}
